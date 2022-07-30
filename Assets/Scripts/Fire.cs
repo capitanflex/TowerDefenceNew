@@ -13,7 +13,7 @@ public class Fire : MonoBehaviour
         {
             if (CanShoot())
             {
-                SearchTarget();
+                // вфывфывфыфыв
             }
 
             if(CurCoolDown > 0)
